@@ -1,0 +1,15 @@
+ESP wakes up
+ESP gets its position
+ESP stores position
+ESP sends the position to the server
+ESP goes to deep sleep
+
+SERVER is online 24/7
+SERVER receives data
+SERVER stores data in a file
+
+WEBAPP is a plain map that resets every week
+WEBAPP checks for new data in the SERVER's file
+WEBAPP finds new data and displays it
+
+
